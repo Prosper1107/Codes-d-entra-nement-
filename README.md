@@ -1,1 +1,38 @@
-# Codes-d-entra-nement-
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Bio Page</title>
+    <link href="bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+    <div class="row">
+        <div id="bio" class="col-12 col-lg-6" text-center>
+            <h1>Jane</h1>
+            <img src="photo.jpg" class="img-fluid">
+            <h2>Favorite Music Artists</h2>
+            <ul>
+                <li>Metallica</li>
+                <li>Bob Marley</li>
+                <li>Madonna</li>
+                <li>The Beatles</li>
+                <li>Pink Floyd</li>
+            </ul>
+            <h2>Favorite Films</h2>
+            <ol>
+                <li>Pulp Fiction</li>
+                <li>The Godfather</li>
+                <li>The Lord of the Rings</li>
+                <li>Iron Man</li>
+                <li>Inception</li>
+            </ol>
+            <a href="https://www.meta.com/user/123" class="btn btn-primary">My Meta Profile</a>
+        </div>
+        <div id="more" class="col-12 col-lg-6"></div>
+
+    </div>
+
+    </div>
+    <script src="bootstrap.bundle.min.js"></script>
+</body>
+</html>
