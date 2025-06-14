@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>DEGUE N'singnon Benoit Prosper</title>
+        <link rel="stylesheet" href="styles.css">
+
+    </head>
+    <body>
+        <div>
+            <h1>DEGUE N'singnon Benoit Prosper</h1>
+        </div>
+        <div>
+            <img src="photo.jpg" id="photo" alt="My Photo">
+        </div>
+        <div>
+            <h2>Favorite Music Artists</h2>
+            <ul>
+                <li>Lefa</li>
+                <li>Maitre Gims</li>
+                <li>Omah Lay</li>
+                <li>Fanicko</li>
+                <li>Blaaz</li>
+            </ul>
+        </div>
+        <div>
+            <h2>Favorite Films</h2>
+                <ol>
+                    <li>La casa de Papel</li>
+                    <li>Merlin</li>
+                    <li>The Clown</li>
+                    <li>John Wick</li>
+                    <li>The Blacklist</li>
+                </ol>
+        </div>
+        <div>
+            <a href="https://www.meta.com/."></a>
+            <a href="https://www.meta.com/" traget="_blank">My Profile></a>
+        </div>
+    </body>
+</html>
